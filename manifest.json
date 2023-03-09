@@ -3,7 +3,7 @@
     "short_name": "sidecar",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
+    "background_color": "#888888",
     "theme_color": "#0175C2",
     "description": "A game aid for Car Wars 6th edition by Steve Jackson Games.",
     "orientation": "portrait-primary",

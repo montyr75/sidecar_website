@@ -94414,7 +94414,7 @@ H(a){var s=null,r=this.c
 return A.aP0(this.d,s,A.aT(A.cX(r.b).eD(" "),s,s,s,B.GJ,s,s),new A.NN(A.aT(r.c.k(0),s,s,s,B.rv,s,s),B.h2,s))}}
 A.MW.prototype={
 dh(a,b){var s=b.e_($.aXi(),t.bk),r=s.b,q=s.c,p=b.e_($.aMw(),t.gb),o=A.b_r()
-return new A.EB(new A.x8(p,o,"CW Companion",r,q,B.GV,!1,"app",null),B.a0,B.RC,null)}}
+return new A.EB(new A.x8(p,o,"Sidecar",r,q,B.GV,!1,"app",null),B.a0,B.RC,null)}}
 A.a1.prototype={}
 A.ae.prototype={
 VB(a){var s=this
