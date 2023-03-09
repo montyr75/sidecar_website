@@ -29650,7 +29650,7 @@ aLF(a,b,c,d,e){var s,r,q
 try{a.$4(b,c,d,e)}catch(q){s=A.am(q)
 r=A.aJ(q)
 A.kL(s,r)}},
-b7k(a){var s,r="https://HOSTNAME/v1",q="https://",p="https://137.184.84.239/v1",o="640509d1427ecb8ca360",n=new A.Ov(r)
+b7k(a){var s,r="https://HOSTNAME/v1",q="https://",p="http://137.184.84.239/v1",o="640509d1427ecb8ca360",n=new A.Ov(r)
 n.d=new A.a7G(A.b2(t.Gf))
 B.c.oZ(B.c.oZ(r,q,"wss://"),"http://","ws://")
 s=t.N
