@@ -91914,7 +91914,7 @@ f=A.bJ(A.a([A.awW(new A.aaX(),12,82,r.galY(),q,new A.aaY(),f,242)],p),B.z,B.G,B.
 q=A.bJ(A.a([A.uR(A.EX(B.alk,new A.aaZ(r),A.EY(g,g,g,g,g,g,g,g,g,g,g,g,g,g,B.dP,B.m2,g,g,g,g)),"Collect CONTROL and ACE for the Take Control step"),B.cW,A.uR(A.EX(B.akP,new A.ab9(this,s,b),A.EY(g,g,g,g,g,g,g,g,g,g,g,g,g,g,B.dP,B.m2,g,g,g,g)),"Show maneuver dice")],p),B.z,B.G,B.R)
 o=s.y
 n=r.gap5()
-o=A.cL(A.a([f,q,A.bJ(A.a([A.awW(new A.abb(),12,82,r.galW(),n,new A.abc(),o,242)],p),B.z,B.G,B.R)],p),B.z,B.dJ,B.a0)
+o=A.cL(A.a([f,q,A.bJ(A.a([A.awW(new A.abb(),30,82,r.galW(),n,new A.abc(),o,242)],p),B.z,B.G,B.R)],p),B.z,B.dJ,B.a0)
 n=s.d
 q=J.aq(n)
 f=q.j(n,B.A)
@@ -93289,7 +93289,7 @@ else l=!0
 if(l)p.push(A.EX(B.akX,new A.a9J(r,b,s),A.EY(j,j,j,j,j,j,j,j,j,j,j,j,j,j,B.dP,B.m2,j,j,j,j)))
 if(m.gbn(n)&&m.m(n,B.iA)&&r.d!==0){t.j8.a(r)
 p.push(A.awW(new A.a9K(),1,50,new A.a9L(b,i,r),new A.a9M(b,i,r),new A.a9N(),r.f,100))}o=o.x
-if(o!=null){n=Math.max(42*o,74)
+if(o!=null){n=Math.max(42*o,75)
 m=r.d
 m.toString
 B.b.N(p,A.a([B.ik,A.awW(new A.a9O(),o,50,new A.a9P(b,i,r),new A.a9Q(b,i,r),new A.a9R(),o-m,n)],q))}i=A.kp(B.aQ,1)
